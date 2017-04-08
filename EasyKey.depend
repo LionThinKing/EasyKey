@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1445115293 source:c:\users\lionthinking\desktop\easykey\easykey\main.cpp
+	<tchar.h>
+	<windows.h>
+	<shlobj.h>
+
+1445115800 source:c:\users\lionthinking\desktop\easykey\easykey\resource.rc
+
